@@ -70,7 +70,7 @@ const styles = StyleSheet.create({
     resizeMode: "contain"
   },
   botao:{
-    backgroundColor:'blue',
+    backgroundColor:'red',
     padding:30,
     borderRadius:5,
     margin:20
